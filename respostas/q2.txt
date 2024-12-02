@@ -1,0 +1,22 @@
+HTML
+O HTML utiliza o formato de tags para estruturar páginas web,
+proporcionando semântica e organização para as informações.
+Essa tecnlogia é de fácil desenvolvimento, uma vez que ela é simples
+e pode ser executada com facilidade em um navegador.
+
+CSS
+Já o CSS é uma linguagem responsável por estilizar o HTML, adicionando
+cores, espaçamentos, fontes, entre outros. O CSS também é simples
+e proporciona efeitos visuais avançados como animações e responsividade,
+recursos que, respectivamente, tornam a navegação mais agradável e flexibilizam
+a utilização dos sites em dispositivos diversos.
+
+Javascript
+O Javascript surge como uma ferramenta que visa trazer interatividade
+para as páginas web, tornando essas páginas mais agradáveis e 
+de simples navegação. Com javascript é possível alterar as informações
+das páginas a partir das ações do usuário, tornando os sites dinâmicos.
+Isso é fundamental para a popularização das páginas web.
+
+Com essas três tecnologias, as web pôde avançar muito,
+criando uma ambiante cada vez mais atrativo e diverso.      

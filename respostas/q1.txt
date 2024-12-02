@@ -1,0 +1,7 @@
+Com o surgimento do World Wide Web, em 1989, a conexão de documentos
+no formato de hyperlink tornou-se possível. Nesse contexto, surgiu o HTML,
+uma linguagem de marcação que organiza o conteúdo das páginas web 
+a partir da estrutura de tags, um formato que facilita o tráfego de
+informações. Desse modo, tanto o WWW quando o HTML contribuiram para
+criar uma cadeia de conexões de documentos na web por meio da internet, o que popularizou
+conectou e faclitou o uso da web pelo público geral e pelos desenvolvedores.

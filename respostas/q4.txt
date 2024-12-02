@@ -1,0 +1,4 @@
+O javascript possibilita a modificação do conteúdo das páginas
+a partir de ações do usuário, o que traz dinamicidade para a navegação.
+Além disso, ele possibiliza a realização de requisições e manipulação
+da estrutura do HTML e do CSS, transformando a experiência do usuário.

@@ -1,0 +1,9 @@
+O versionamento de código é a organização da produção de código
+por meio de recursos como branchs, commits e repositórios.
+Esse versionamento possibilita organizar o código em várias versões,
+o que ajuda a restaurar versões estáveis e também rastrear as modificações
+que são realizadas em umn dado repositório. Isso é fundamental para a colaboração,
+haja vista que esse mecanismo possibilita criação de fluxos de trabalho
+independentes a partir de versões do código, gerando o paralelismo no desenvolvimento.
+Após a finalização do trabalho, esse código é mesclado e versões novas
+do produto de software podem ser gerada.

@@ -1,0 +1,9 @@
+Primeiramente eu levantaria os requisitos, entendendo como o site
+será organizado. A partir disso, eu criaria um kanban com as principais
+tasks a serem realizadas e faria uma divisão das atividades entre eu e a minha dupla.
+Com isso, eu poderia organizar as datas e prazos de cada tarefa.
+Depois disso, eu escolheria as tecnologias, levando em consideração
+as ferramentas com mais suporte e mais adequadas para a estrutura do site.
+Após isso, eu organizaria o repositório, adicionaria padrões de commit e 
+basearia a  estrutura de desenvolvimento com branchs, com uma branch principal
+e algumas brancs para fluxos de trabalho específicos.
